@@ -1,0 +1,27 @@
+{
+  "name": "givery-rest-api-test-deno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtechmaster/givery-rest-api-test-deno.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dtechmaster/givery-rest-api-test-deno/issues"
+  },
+  "homepage": "https://github.com/dtechmaster/givery-rest-api-test-deno#readme",
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "chai-http": "^4.4.0",
+    "js-yaml": "^4.2.0",
+    "mocha": "^11.7.6"
+  }
+}
